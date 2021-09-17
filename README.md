@@ -1,8 +1,8 @@
 ### Hello 👋
 
-I'm a frontend developer 👩🏽‍💻
+I'm a newly baked frontend developer 👩🏽‍💻
 
-Most days I spend coding anf taling walks with my little dog, woff woff 🐕 
+Most days I spend coding and taking walks with my dog, woff woff 🐕 
 
 
 
