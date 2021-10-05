@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a newly baked frontend developer 👩🏽‍💻
+Working as frontend developer at [Iteam](https://github.com/Iteam1337) 👩🏽‍💻
 
 Most days I spend coding and taking walks with my dog, woff woff 🐕 
 
