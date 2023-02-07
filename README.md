@@ -1,10 +1,8 @@
 ### Hello 👋
 
-Working as frontend developer at [Iteam](https://github.com/Iteam1337) 👩🏽‍💻
+I'm currently working at [Polestar](https://github.com/polestar) as a sotfware engineer 👩🏽‍💻
 
-Most days I spend coding and taking walks with my dog, woff woff 🐕 
-
-
+Right now I'm forcing my self to learn neovim 😎 and trying hard to follow the concept of learning in public.
 
 
 <!--
