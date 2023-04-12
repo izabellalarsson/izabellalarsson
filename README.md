@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm currently working at [Polestar](https://github.com/polestar) as a sotfware engineer 👩🏽‍💻
+I'm currently working at [Polestar](https://github.com/polestar) as a software engineer 👩🏽‍💻
 
 Right now I'm forcing my self to learn neovim 😎 and trying hard to follow the concept of learning in public.
 
