@@ -2,10 +2,10 @@
 
 I'm currently working at [Polestar](https://github.com/polestar) as a software engineer 👩🏽‍💻
 
-Right now I'm forcing my self to learn neovim 😎 and trying hard to follow the concept of learning in public.
 
 
 <!--
+Right now I'm forcing my self to learn neovim 😎 and trying hard to follow the concept of learning in public.
 **izabellalarsson/izabellalarsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
